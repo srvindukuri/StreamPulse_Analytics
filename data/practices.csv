@@ -1,0 +1,1001 @@
+doctor_id,doctor_name,specialty,fees,facility_id
+D0001,Dr. Lauren White,Dermatologist,1928,H038
+D0002,Dr. James Brooks,Cardiologist,1662,H037
+D0003,Dr. Rachel Yang,Dermatologist,1508,H012
+D0004,Dr. Jessica Jimenez,ortho,,H002
+D0005,Dr. Richard Baker,General Medicine,1757,H009
+D0006,Dr. Richard Collins,Pediatric,1162,
+D0007,Dr. Jackson Avila,Dermatologist,727,H024
+D0008,Dr. Steven Duncan,Cardiologist,1310,H022
+D0009,Dr. Elizabeth Flores,Pediatric,1999,H041
+D0010,Dr. Richard Trujillo,Ortho,1650,H040
+D0011,Dr. Carlos Vincent,pediatric,859,H047
+D0012,Dr. Robert Liu,pediatric,1937,H026
+D0013,Dr. Sarah Lopez,general medicine,1752,H037
+D0014,Dr. Michael Brown,Cardiologist,659,H021
+D0015,Dr. Geoffrey Franklin,Dermatologist,1951,H047
+D0016,Dr. Anthony Neal,Pediatric,1011,H023
+D0017,Dr. Caitlin Lopez,Pediatric,598,H047
+D0018,Dr. Edward Richmond,Ortho,1509,H023
+D0019,Dr. Jessica Keith,General Medicine,1683,H044
+D0020,Dr. Kara Morales,dermatologist,,H019
+D0021,Dr. Lisa Price,Cardiologist,651,H025
+D0022,Dr. Christopher Fletcher,Dermatologist,690,H040
+D0023,Dr. Jaime Compton,Ortho,1838,H028
+D0024,Dr. Tina Ferguson,dermatologist,889,H036
+D0025,Dr. Jasmine Brown,general medicine,986,
+D0026,Dr. Veronica Smith,Ortho,814,
+D0027,Dr. Jose Foster,Cardiologist,1855,H031
+D0028,Dr. Wendy Anderson,dermatologist,1807,H006
+D0029,Dr. Carrie Larson,Ortho,1314,H043
+D0030,Dr. Jill Floyd,pediatric,878,H025
+D0031,Dr. Robert Griffin,pediatric,,H017
+D0032,Dr. Jennifer Baker MD,Dermatologist,809,H043
+D0033,Dr. Angela Cross,cardiologist,1608,H049
+D0034,Dr. Amy Rice,general medicine,,H034
+D0035,Dr. Peter Mendoza,Ortho,1472,H016
+D0036,Dr. Gregory Chapman,ortho,1962,
+D0037,Dr. Paul Williams,General Medicine,1887,H010
+D0038,Dr. Valerie Reid,Cardiologist,842,H013
+D0039,Dr. Dennis Palmer,dermatologist,,H013
+D0040,Dr. Caleb Grant,Dermatologist,1989,H005
+D0041,Dr. Kathy Johns,Cardiologist,1167,H034
+D0042,Dr. Paul Dodson,Ortho,,H038
+D0043,Dr. Michael Patterson,General Medicine,806,H038
+D0044,Dr. Jacob Pearson,General Medicine,716,H007
+D0045,Dr. Charles Gonzalez,Pediatric,1341,H042
+D0046,Dr. Ashley Blackburn,Ortho,852,H010
+D0047,Dr. Micheal West,General Medicine,579,H022
+D0048,Dr. Lisa Doyle,dermatologist,1050,H002
+D0049,Dr. Melanie Oliver,Pediatric,1074,H045
+D0050,Dr. Angela Gonzales,Cardiologist,1115,H029
+D0051,Dr. Pamela Sanchez,pediatric,1822,
+D0052,Dr. Martin Newton,ortho,1492,H024
+D0053,Dr. Andre Dillon MD,Cardiologist,1137,H026
+D0054,Dr. Christopher Jones,Dermatologist,1664,
+D0055,Dr. Miguel Pena,Dermatologist,618,H030
+D0056,Dr. Ryan Lawson,Cardiologist,1061,H030
+D0057,Dr. David Williams,General Medicine,1895,
+D0058,Dr. Mark Johnson,Pediatric,1471,H023
+D0059,Dr. Rebecca Perez,pediatric,1910,
+D0060,Dr. Kathryn Thomas,Cardiologist,1671,H014
+D0061,Dr. Crystal Abbott,Dermatologist,1051,H033
+D0062,Dr. Alexandra Hodge,Cardiologist,1897,
+D0063,Dr. Rachel Yang,Dermatologist,517,H039
+D0064,Dr. Michelle Sanders,Pediatric,1063,H025
+D0065,Dr. Dustin Stein,Pediatric,1118,H040
+D0066,Dr. Haley Jackson,Ortho,,H024
+D0067,Dr. Thomas Moses,General Medicine,1111,H031
+D0068,Dr. Jeffrey Petersen,Cardiologist,1165,H017
+D0069,Dr. Joseph Ward,pediatric,992,H039
+D0070,Dr. Lance Robinson,Ortho,1977,
+D0071,Dr. Kristen Smith,Ortho,1357,H048
+D0072,Dr. Nicole Mcbride,Cardiologist,888,H046
+D0073,Dr. Daisy Larson,Dermatologist,1474,H043
+D0074,Dr. Jesus Shaw,Pediatric,1846,H012
+D0075,Dr. Shelly Moss,pediatric,1029,H036
+D0076,Dr. Laura Coleman,Dermatologist,1840,
+D0077,Dr. Kayla Moore,pediatric,1361,H022
+D0078,Dr. Melissa Brown,pediatric,741,H041
+D0079,Dr. Emily Riley MD,General Medicine,1467,H033
+D0080,Dr. Donald Cole,Cardiologist,1111,H010
+D0081,Dr. James Johnson,Dermatologist,1666,H030
+D0082,Dr. Nicholas George,Dermatologist,665,H041
+D0083,Dr. Jane King,Dermatologist,,H014
+D0084,Dr. Tanner Decker,Dermatologist,680,H028
+D0085,Dr. Leslie Martin,Ortho,1285,
+D0086,Dr. Keith Garcia,general medicine,528,H049
+D0087,Dr. Victoria Keller,general medicine,1783,H015
+D0088,Dr. Mr. Robert Acevedo MD,Pediatric,1530,H011
+D0089,Dr. Ms. Kayla Williams,Cardiologist,1095,H034
+D0090,Dr. Tammy Jackson,General Medicine,1906,H022
+D0091,Dr. Robert Smith,Ortho,1326,
+D0092,Dr. Stephen Smith,Dermatologist,544,H011
+D0093,Dr. Jasmin Hamilton,Cardiologist,576,H041
+D0094,Dr. Thomas Romero,Pediatric,1716,H043
+D0095,Dr. Megan Grant,Cardiologist,,H027
+D0096,Dr. Karen Hughes,Ortho,1471,H014
+D0097,Dr. Bradley Phillips,Cardiologist,1856,H040
+D0098,Dr. Robert Roberts,General Medicine,714,H040
+D0099,Dr. Cynthia Tran,cardiologist,1519,H013
+D0100,Dr. Marie Davidson,Pediatric,1233,H019
+D0101,Dr. Jordan Williams,dermatologist,925,H031
+D0102,Dr. Mr. Paul Chase,pediatric,,
+D0103,Dr. Chloe Parker,Cardiologist,805,H050
+D0104,Dr. Leah Collier,general medicine,1024,H030
+D0105,Dr. Amanda Gonzalez,pediatric,,H003
+D0106,Dr. Alice Conley,Pediatric,1372,H007
+D0107,Dr. Clarence Wood,cardiologist,1825,H023
+D0108,Dr. Terri Cisneros,Ortho,690,H022
+D0109,Dr. Jessica Jones,dermatologist,1434,H025
+D0110,Dr. Michael Graham,Ortho,841,H045
+D0111,Dr. Mary Henderson,Cardiologist,712,H038
+D0112,Dr. Adam Holland,Ortho,871,H050
+D0113,Dr. Elizabeth Miller,Pediatric,1989,H009
+D0114,Dr. Ryan Kaiser,Ortho,1342,H005
+D0115,Dr. Douglas Morton,Pediatric,,H034
+D0116,Dr. Ashlee Mendez,General Medicine,1871,H034
+D0117,Dr. Leslie Barton,General Medicine,1386,H016
+D0118,Dr. Joseph Smith,Ortho,1288,H036
+D0119,Dr. Paige Jordan,general medicine,821,H031
+D0120,Dr. Elizabeth Taylor,Ortho,,H016
+D0121,Dr. Latoya Howell,Pediatric,,H042
+D0122,Dr. Lawrence Glover,Ortho,1440,H037
+D0123,Dr. Kimberly Grant,ortho,1147,H032
+D0124,Dr. Madison Wilson,cardiologist,1641,H006
+D0125,Dr. Melanie Davidson,General Medicine,1541,H042
+D0126,Dr. Angel Johnson,Ortho,611,H030
+D0127,Dr. Jessica Cox,Pediatric,1468,H024
+D0128,Dr. Laura Mosley,ortho,954,
+D0129,Dr. Kurt Martinez,Pediatric,1097,H024
+D0130,Dr. Brandi Ibarra,cardiologist,787,H048
+D0131,Dr. Heather Sweeney,ortho,884,H026
+D0132,Dr. Laura Guerra,Dermatologist,1967,H049
+D0133,Dr. Adrian Levine,ortho,1876,H050
+D0134,Dr. Abigail Acevedo,Ortho,1532,H032
+D0135,Dr. Isabella Taylor,Cardiologist,,H038
+D0136,Dr. Joel Rogers,Ortho,862,H012
+D0137,Dr. Tyler Murray,dermatologist,1741,H033
+D0138,Dr. Michael Lambert,Ortho,1918,H018
+D0139,Dr. Edward Guzman,Ortho,1427,H009
+D0140,Dr. Anne Chambers,Ortho,1549,H045
+D0141,Dr. Kristen Ramirez,General Medicine,1633,H013
+D0142,Dr. Leslie Case,Dermatologist,1207,H009
+D0143,Dr. Christopher Thomas,Dermatologist,1160,H049
+D0144,Dr. Felicia Matthews,Pediatric,1866,H044
+D0145,Dr. Robert Keith,general medicine,526,H002
+D0146,Dr. Deborah Simon,ortho,909,H011
+D0147,Dr. Carlos Morrow,Pediatric,627,H019
+D0148,Dr. Edward Tucker,Dermatologist,,H007
+D0149,Dr. Emma Chan,General Medicine,959,H036
+D0150,Dr. Ryan Thomas,ortho,1925,H043
+D0151,Dr. Holly Rivas,Cardiologist,1903,H036
+D0152,Dr. Alicia Navarro,cardiologist,1770,H029
+D0153,Dr. James Schaefer,Dermatologist,1826,H038
+D0154,Dr. Jennifer Sampson,General Medicine,1984,H019
+D0155,Dr. Daniel Taylor,ortho,882,H048
+D0156,Dr. Julie Thompson,general medicine,,H017
+D0157,Dr. Justin Murphy,dermatologist,511,H046
+D0158,Dr. Rachel Smith,dermatologist,1722,
+D0159,Dr. Joseph Dougherty,General Medicine,1672,H005
+D0160,Dr. Catherine Barker,Pediatric,1566,
+D0161,Dr. Cynthia Taylor,general medicine,1326,
+D0162,Dr. James Peck,Dermatologist,1178,H014
+D0163,Dr. Rebecca Brooks,General Medicine,1829,
+D0164,Dr. Mr. Gregory Hart,Pediatric,1756,H016
+D0165,Dr. Tiffany Davis,Cardiologist,732,H035
+D0166,Dr. Vanessa Bishop,pediatric,1267,H033
+D0167,Dr. Stacey Rodriguez,Ortho,1834,H033
+D0168,Dr. Angelica Lopez,Cardiologist,1601,H041
+D0169,Dr. Spencer Manning,cardiologist,936,H028
+D0170,Dr. Robert Bauer,cardiologist,1391,H005
+D0171,Dr. Keith Gonzalez,dermatologist,577,
+D0172,Dr. Benjamin Jordan,cardiologist,644,H015
+D0173,Dr. Adrian Krueger,Pediatric,1328,H002
+D0174,Dr. Michael Travis,Ortho,1813,H005
+D0175,Dr. Jonathan Glover,general medicine,1232,H007
+D0176,Dr. Erin Carter,Pediatric,677,H029
+D0177,Dr. Brenda Bradley,Ortho,1470,H015
+D0178,Dr. Kevin Berry,Dermatologist,1617,H041
+D0179,Dr. Jennifer Anderson,dermatologist,1993,H001
+D0180,Dr. Tyler Miranda,General Medicine,585,
+D0181,Dr. Nicholas Chung,General Medicine,674,H048
+D0182,Dr. Kayla Thomas,pediatric,1549,H012
+D0183,Dr. Robert Shepherd,Dermatologist,734,H037
+D0184,Dr. Steven Swanson,Cardiologist,1624,H036
+D0185,Dr. David Williams,cardiologist,,
+D0186,Dr. Justin Bishop,General Medicine,762,H016
+D0187,Dr. Clifford Mcdonald,cardiologist,,H032
+D0188,Dr. Wesley Bowers,Ortho,1920,H037
+D0189,Dr. Jessica Warren,General Medicine,1377,H021
+D0190,Dr. Dana Savage,Dermatologist,1812,H024
+D0191,Dr. Joseph Sullivan,Dermatologist,1482,H023
+D0192,Dr. Joshua Williams,Pediatric,1822,H018
+D0193,Dr. Cory Kelley,Dermatologist,1783,
+D0194,Dr. Whitney Macdonald DVM,Cardiologist,1793,
+D0195,Dr. Kimberly Ponce,General Medicine,935,H036
+D0196,Dr. Darren Morse,Pediatric,1466,H010
+D0197,Dr. Lydia Horn,Pediatric,1707,H019
+D0198,Dr. Chad Williams,Dermatologist,1312,H001
+D0199,Dr. Jeremy Wallace,Dermatologist,1757,H049
+D0200,Dr. Anthony Ward,general medicine,1659,H043
+D0201,Dr. Heather Diaz,Dermatologist,1234,
+D0202,Dr. Daniel White,ortho,979,
+D0203,Dr. Linda Fernandez,Dermatologist,1294,H030
+D0204,Dr. Ralph Rodriguez,cardiologist,711,H034
+D0205,Dr. Michael Cross DDS,Pediatric,1614,H025
+D0206,Dr. Stacy Garcia,Ortho,659,H025
+D0207,Dr. Brett Maxwell,Dermatologist,1206,H031
+D0208,Dr. Anna Andersen,general medicine,1400,H005
+D0209,Dr. Gary Phillips,General Medicine,882,H039
+D0210,Dr. Melanie Brown,Cardiologist,1176,H031
+D0211,Dr. Carol Johnson,Ortho,1825,H002
+D0212,Dr. Jacqueline Hall,dermatologist,829,H033
+D0213,Dr. Tara Hale,Cardiologist,840,H012
+D0214,Dr. Christopher Smith,General Medicine,1654,H047
+D0215,Dr. Chad Kim,Pediatric,1742,H031
+D0216,Dr. Riley Knight,dermatologist,792,H050
+D0217,Dr. Amy Moore,Dermatologist,843,H022
+D0218,Dr. Robert Ellison,Ortho,,H009
+D0219,Dr. Brian Lewis,cardiologist,1532,H010
+D0220,Dr. Catherine Johns,general medicine,1759,H035
+D0221,Dr. Mary Parks,General Medicine,,H039
+D0222,Dr. Mark Williamson,General Medicine,1889,H034
+D0223,Dr. Douglas Blanchard,Ortho,,H015
+D0224,Dr. Phillip Padilla PhD,Ortho,1706,H049
+D0225,Dr. Juan Galvan,general medicine,1477,H006
+D0226,Dr. Leslie Diaz,Pediatric,1027,H046
+D0227,Dr. David Potter,Cardiologist,514,H014
+D0228,Dr. Adam Long,Pediatric,1372,H017
+D0229,Dr. Lisa Booker,Pediatric,1248,H044
+D0230,Dr. Alexandria Vaughn,Ortho,1641,H024
+D0231,Dr. April Bailey,General Medicine,1128,H050
+D0232,Dr. Sherry Patterson,Ortho,1850,H015
+D0233,Dr. Melissa Wolf,Ortho,705,H026
+D0234,Dr. Joshua Sims,Pediatric,1901,H011
+D0235,Dr. Tina Mooney,Ortho,,
+D0236,Dr. Luis Mcclain,Dermatologist,680,
+D0237,Dr. Heather Wolf,Dermatologist,1983,H026
+D0238,Dr. James Bradley,General Medicine,1723,
+D0239,Dr. Isaiah Jones,Dermatologist,913,H034
+D0240,Dr. Victor Hudson,pediatric,1545,H015
+D0241,Dr. Maria Sanders,general medicine,,H001
+D0242,Dr. Thomas Holloway,dermatologist,1318,H026
+D0243,Dr. Joshua Love,Ortho,1941,
+D0244,Dr. Andrew Dominguez,Cardiologist,1645,H023
+D0245,Dr. John Adams,Pediatric,1741,H030
+D0246,Dr. Michelle Huber,Ortho,1333,H036
+D0247,Dr. Laura Roberts,Cardiologist,739,H017
+D0248,Dr. Tracey Brooks,General Medicine,1921,H025
+D0249,Dr. Aaron Henry,General Medicine,1195,H030
+D0250,Dr. Ryan Moore,Ortho,1487,H005
+D0251,Dr. Daniel Chen,Ortho,1886,H021
+D0252,Dr. Angel Lewis,Ortho,519,H017
+D0253,Dr. David Nolan,dermatologist,1200,
+D0254,Dr. Brian Medina,Dermatologist,1674,H048
+D0255,Dr. Antonio Lopez,Dermatologist,995,H014
+D0256,Dr. Michaela Hernandez,dermatologist,1766,H050
+D0257,Dr. Elizabeth Chase,cardiologist,,H032
+D0258,Dr. Omar Johnson,general medicine,586,H024
+D0259,Dr. Steven Fisher,General Medicine,1676,H032
+D0260,Dr. Heather Smith,Dermatologist,1073,H049
+D0261,Dr. Kimberly Mcintyre,general medicine,1366,H035
+D0262,Dr. Dana Hernandez,Cardiologist,1905,H030
+D0263,Dr. Anita Long,Cardiologist,1911,
+D0264,Dr. Chad Pennington,Dermatologist,1240,H017
+D0265,Dr. Michael Rosario,Dermatologist,1465,H022
+D0266,Dr. Joyce Webster,pediatric,1358,H024
+D0267,Dr. Kristie Hendrix MD,Pediatric,868,H037
+D0268,Dr. Shannon Miller,Dermatologist,982,H025
+D0269,Dr. Linda Henderson,dermatologist,806,H001
+D0270,Dr. Anthony Ashley,Dermatologist,1791,H047
+D0271,Dr. Michael Khan,Pediatric,1651,H004
+D0272,Dr. Stacey Thomas,ortho,941,H031
+D0273,Dr. Joseph Jones,Cardiologist,1239,H036
+D0274,Dr. John Johnson,Pediatric,1219,H039
+D0275,Dr. April Wallace,Dermatologist,1602,H050
+D0276,Dr. Gregory Martin,Pediatric,1498,H029
+D0277,Dr. Krista White,Cardiologist,1793,H011
+D0278,Dr. Tyler Garcia,Pediatric,1328,H005
+D0279,Dr. Molly Jackson,cardiologist,1148,H046
+D0280,Dr. Thomas Floyd,Pediatric,1411,H024
+D0281,Dr. Susan Sharp,General Medicine,842,H002
+D0282,Dr. Krystal Hamilton,Dermatologist,1935,H014
+D0283,Dr. Kathy Lewis,Dermatologist,,H031
+D0284,Dr. Joshua Miller,general medicine,1573,H006
+D0285,Dr. Emily Brady,cardiologist,1841,H025
+D0286,Dr. Julie Padilla,pediatric,1407,H009
+D0287,Dr. Justin Williams,General Medicine,,H021
+D0288,Dr. Willie Morgan,Ortho,1057,H009
+D0289,Dr. Joseph Stokes,general medicine,1792,H037
+D0290,Dr. Cindy Kelley,Ortho,1134,H031
+D0291,Dr. Tommy Romero,general medicine,,H027
+D0292,Dr. Stephanie Lara,pediatric,,H049
+D0293,Dr. Tyrone Collins,Dermatologist,517,H032
+D0294,Dr. Brendan Palmer,ortho,1099,H001
+D0295,Dr. Paul Martin,General Medicine,1648,H016
+D0296,Dr. Juan Gilbert,Dermatologist,1274,H006
+D0297,Dr. Lori Roberson,Ortho,1755,H044
+D0298,Dr. Matthew Moore,pediatric,1050,H005
+D0299,Dr. Donald Freeman,dermatologist,1432,H018
+D0300,Dr. Daniel Anderson,General Medicine,811,
+D0301,Dr. Kelly Rodriguez,general medicine,1077,H046
+D0302,Dr. Troy Ward,Ortho,808,
+D0303,Dr. Christina Smith,Dermatologist,1520,H030
+D0304,Dr. Mark Smith,Cardiologist,799,
+D0305,Dr. Daniel Williams,ortho,893,H017
+D0306,Dr. Melissa Robinson,Ortho,1963,H050
+D0307,Dr. Mitchell Jimenez,ortho,907,H050
+D0308,Dr. Bethany Liu,Cardiologist,1468,H020
+D0309,Dr. Mitchell Williams,pediatric,1625,H017
+D0310,Dr. Bianca Davis,Ortho,606,H014
+D0311,Dr. Anthony King,cardiologist,530,H018
+D0312,Dr. Michael Summers,general medicine,518,H038
+D0313,Dr. Ricky Hall,Ortho,683,H032
+D0314,Dr. Joyce Kelly,Cardiologist,1780,
+D0315,Dr. Anne Medina,Pediatric,719,H015
+D0316,Dr. Benjamin Johnson,Pediatric,1211,H029
+D0317,Dr. Kyle Perry,dermatologist,1983,H003
+D0318,Dr. Melissa Newton,Ortho,1611,H013
+D0319,Dr. James Franklin,general medicine,1999,H039
+D0320,Dr. Caitlin Curry,general medicine,1420,H017
+D0321,Dr. Barbara Glover,General Medicine,,H025
+D0322,Dr. Ryan Harmon,Dermatologist,1245,H016
+D0323,Dr. Andrea Hughes,Pediatric,1603,H013
+D0324,Dr. Keith Solis,General Medicine,815,H021
+D0325,Dr. Bryan Tucker,Ortho,1571,H003
+D0326,Dr. Holly Grant,dermatologist,,H013
+D0327,Dr. Ryan Skinner,cardiologist,1295,H034
+D0328,Dr. Julia Mullins,General Medicine,1250,H046
+D0329,Dr. Janet Graves,cardiologist,1842,H006
+D0330,Dr. Angela Hunt,Ortho,,H027
+D0331,Dr. Isaiah Turner,Pediatric,,H034
+D0332,Dr. Phillip Scott,Cardiologist,659,H034
+D0333,Dr. Jessica Reynolds,cardiologist,1289,H034
+D0334,Dr. Melinda Jacobs,Dermatologist,1643,H027
+D0335,Dr. Danny Butler,Cardiologist,1881,H043
+D0336,Dr. Matthew Bennett,Ortho,869,H033
+D0337,Dr. Carl Jackson,Pediatric,1728,H023
+D0338,Dr. Stephen Wilson,Pediatric,1261,H041
+D0339,Dr. Charles Robinson,Ortho,992,H014
+D0340,Dr. Chad Poole,Ortho,1020,H029
+D0341,Dr. Matthew Dominguez,Ortho,,
+D0342,Dr. Christian Shelton,Pediatric,1118,
+D0343,Dr. Makayla Friedman,dermatologist,1912,H036
+D0344,Dr. Katherine Downs,General Medicine,816,
+D0345,Dr. Lisa Singh,Ortho,1251,H016
+D0346,Dr. Brittany Allen,dermatologist,1668,H014
+D0347,Dr. Robert Miller,Cardiologist,854,H045
+D0348,Dr. Melanie Baker,General Medicine,,H003
+D0349,Dr. Gerald Allen,General Medicine,1184,H028
+D0350,Dr. Vincent Hays,Ortho,964,H039
+D0351,Dr. Valerie Lopez,Cardiologist,610,H003
+D0352,Dr. Anthony Schmidt,Pediatric,1528,H010
+D0353,Dr. Dean Harris,Cardiologist,1412,H037
+D0354,Dr. Rhonda Allen,general medicine,1307,H022
+D0355,Dr. Ruben Charles,Cardiologist,1622,H006
+D0356,Dr. Jennifer Brooks,Ortho,767,H031
+D0357,Dr. Jacqueline Owens,general medicine,1670,H040
+D0358,Dr. Sydney Elliott,general medicine,,H021
+D0359,Dr. Gary Chavez,general medicine,1367,H013
+D0360,Dr. Stephanie Salinas,Pediatric,1124,H023
+D0361,Dr. Raymond Valenzuela,General Medicine,1776,H003
+D0362,Dr. Theresa Ward,dermatologist,1991,H008
+D0363,Dr. Jacob Kennedy,cardiologist,802,H019
+D0364,Dr. Jenna Velazquez,Cardiologist,1124,H002
+D0365,Dr. Kathryn Rivers,pediatric,917,H049
+D0366,Dr. Daniel Ramirez,Pediatric,789,H043
+D0367,Dr. Greg Wood,Cardiologist,1578,
+D0368,Dr. Susan Armstrong,dermatologist,1926,H004
+D0369,Dr. Taylor Stark,Ortho,,H018
+D0370,Dr. Brandon Peterson,Pediatric,,H042
+D0371,Dr. Linda Morris,ortho,1953,
+D0372,Dr. Laura Sanders,Pediatric,680,H033
+D0373,Dr. Catherine Castaneda,Ortho,581,H034
+D0374,Dr. Jesse Pollard,Pediatric,821,
+D0375,Dr. Jacob Love,Pediatric,1526,H004
+D0376,Dr. Mrs. Janice Fitzpatrick,Pediatric,560,H018
+D0377,Dr. Zachary Mckay,dermatologist,1845,H047
+D0378,Dr. Lauren Wright,Ortho,1781,H027
+D0379,Dr. Teresa Velasquez,Dermatologist,1139,H022
+D0380,Dr. Eugene Parker,Ortho,783,H044
+D0381,Dr. Amy Knight,Dermatologist,1944,H009
+D0382,Dr. Randy Perez,Ortho,797,H037
+D0383,Dr. Melanie Smith,Dermatologist,1973,H021
+D0384,Dr. Melissa Martinez,Dermatologist,1347,H020
+D0385,Dr. Samantha Gillespie,Ortho,1804,H018
+D0386,Dr. Bryan Richardson,Dermatologist,878,
+D0387,Dr. Anna Cantu,General Medicine,1754,H015
+D0388,Dr. Christopher Cox,Dermatologist,1909,H009
+D0389,Dr. Diana Kemp,General Medicine,1830,H025
+D0390,Dr. Taylor Salinas,Ortho,963,
+D0391,Dr. Ryan Santos,Cardiologist,955,H013
+D0392,Dr. Amber Crawford,dermatologist,1399,H032
+D0393,Dr. Carla Wong,Pediatric,1375,H003
+D0394,Dr. Allison Rice,General Medicine,1140,H048
+D0395,Dr. Sheri Hoover,General Medicine,1942,H034
+D0396,Dr. Jeremy Chavez,Cardiologist,586,H016
+D0397,Dr. Jennifer Nguyen,General Medicine,580,H034
+D0398,Dr. John Rodriguez,cardiologist,1123,H019
+D0399,Dr. Maria Williams,ortho,611,H010
+D0400,Dr. Melody Ochoa,Ortho,1979,H012
+D0401,Dr. Tara Brown,General Medicine,777,H021
+D0402,Dr. Holly Banks,ortho,1959,H030
+D0403,Dr. Amber Johnson,cardiologist,1957,H046
+D0404,Dr. Scott Thompson,cardiologist,1798,H034
+D0405,Dr. Eric Flores,Ortho,1753,H025
+D0406,Dr. Theresa Wilson,General Medicine,1186,H043
+D0407,Dr. Eric Ponce,dermatologist,1958,
+D0408,Dr. Becky Sellers,Pediatric,1413,H012
+D0409,Dr. Kendra Burton,Cardiologist,507,H017
+D0410,Dr. Wyatt Kerr,Cardiologist,1613,H039
+D0411,Dr. Craig Dean,ortho,1474,H029
+D0412,Dr. Christian Rowe,Cardiologist,,H018
+D0413,Dr. Nathan Burke,General Medicine,925,
+D0414,Dr. Nicholas Chase,dermatologist,797,H043
+D0415,Dr. Hailey Ball,General Medicine,679,
+D0416,Dr. Heather Barry,Ortho,1082,H045
+D0417,Dr. Cindy Young,General Medicine,1432,H024
+D0418,Dr. Mark Townsend,cardiologist,1254,H005
+D0419,Dr. Michael Lee,Ortho,,H008
+D0420,Dr. Lisa Smith,Pediatric,929,H040
+D0421,Dr. John Steele,cardiologist,1788,H006
+D0422,Dr. Sandra Casey,Ortho,1947,H039
+D0423,Dr. Darrell Simmons,pediatric,1776,H009
+D0424,Dr. Valerie Harrison,General Medicine,1794,H012
+D0425,Dr. Anthony Cherry,general medicine,896,
+D0426,Dr. Cody Lawson,Cardiologist,924,H027
+D0427,Dr. Barbara Wagner,ortho,1805,H041
+D0428,Dr. Scott James,Dermatologist,638,H033
+D0429,Dr. John Moore,General Medicine,,H022
+D0430,Dr. Matthew Farley,Ortho,559,H013
+D0431,Dr. Mrs. Tonya Byrd,Pediatric,1481,H003
+D0432,Dr. Catherine Davis,Dermatologist,1599,H030
+D0433,Dr. Mary Wilkinson,Ortho,,H037
+D0434,Dr. Michael Baker,Pediatric,,H022
+D0435,Dr. Peggy Mendoza,pediatric,563,H025
+D0436,Dr. Paul Anderson,General Medicine,1297,H008
+D0437,Dr. Wayne Robinson,Pediatric,564,H006
+D0438,Dr. Brittany Farley,Ortho,1119,H020
+D0439,Dr. Katie Walters,dermatologist,913,H029
+D0440,Dr. Dorothy Osborn,general medicine,1524,H022
+D0441,Dr. William Hodge,Ortho,1170,H007
+D0442,Dr. Michelle Ortega,General Medicine,1983,
+D0443,Dr. Shannon White,Ortho,508,H003
+D0444,Dr. Jennifer Bennett,General Medicine,594,H050
+D0445,Dr. Lisa Kaiser,pediatric,1808,H021
+D0446,Dr. Matthew Mccullough,dermatologist,1153,H043
+D0447,Dr. Steven Tyler,cardiologist,734,
+D0448,Dr. Robert Jones,General Medicine,1611,H021
+D0449,Dr. Kim Nelson,pediatric,1080,H011
+D0450,Dr. Katherine Garcia,Cardiologist,1607,H009
+D0451,Dr. John Stewart,Cardiologist,716,H006
+D0452,Dr. Tiffany Barton,Ortho,1713,H045
+D0453,Dr. Erica Smith,Ortho,905,H043
+D0454,Dr. Colleen Cruz,general medicine,1453,H006
+D0455,Dr. Anthony Mueller,ortho,1819,H030
+D0456,Dr. Crystal Clayton,ortho,1763,H024
+D0457,Dr. Jacob Brown,ortho,1176,H021
+D0458,Dr. Rachel Williams,Ortho,,H031
+D0459,Dr. Keith Lloyd,Ortho,1213,H009
+D0460,Dr. Mary Richardson,general medicine,719,H042
+D0461,Dr. Nathan Jones,Cardiologist,1320,H016
+D0462,Dr. Tamara Peterson,general medicine,1487,H022
+D0463,Dr. Alan Mahoney,Dermatologist,1391,H022
+D0464,Dr. Nathan Vargas,General Medicine,1871,
+D0465,Dr. Frank Payne,General Medicine,1720,H036
+D0466,Dr. Cody Woods,Cardiologist,1331,
+D0467,Dr. Chad King,Cardiologist,1276,H042
+D0468,Dr. Christopher Smith,cardiologist,1689,H041
+D0469,Dr. Marissa Davis,Cardiologist,1427,H025
+D0470,Dr. Ann Parker,General Medicine,1895,H020
+D0471,Dr. Laura Walton,General Medicine,1390,H023
+D0472,Dr. Travis Powell,Cardiologist,1545,H009
+D0473,Dr. Maria Sullivan,pediatric,608,
+D0474,Dr. Kelly Lewis,General Medicine,1077,H016
+D0475,Dr. John Webb,Ortho,1151,H026
+D0476,Dr. Lance Townsend,Ortho,855,H013
+D0477,Dr. Matthew Leonard,General Medicine,1354,H043
+D0478,Dr. Tyler Dominguez,dermatologist,,
+D0479,Dr. Kimberly Alvarez,Ortho,778,
+D0480,Dr. Heather Pittman,Ortho,1924,H028
+D0481,Dr. Teresa Cohen,general medicine,1630,H025
+D0482,Dr. Melissa Parker,pediatric,515,H047
+D0483,Dr. Brandon Carrillo,Dermatologist,1618,H003
+D0484,Dr. Colin Mckay,Cardiologist,731,H045
+D0485,Dr. Rachel Walsh,cardiologist,1072,H006
+D0486,Dr. Caleb Williams,General Medicine,,H048
+D0487,Dr. Benjamin Wilkinson,Cardiologist,1687,H004
+D0488,Dr. Katelyn Gray,Pediatric,,H031
+D0489,Dr. Kristine Bryant DVM,General Medicine,1103,H003
+D0490,Dr. Michael Smith,General Medicine,1654,H041
+D0491,Dr. Justin Foster,Ortho,1844,H048
+D0492,Dr. Maurice Graham,general medicine,759,H018
+D0493,Dr. Kenneth Watkins,pediatric,1026,
+D0494,Dr. Stacey Davis,Cardiologist,809,H024
+D0495,Dr. Janice Bailey,dermatologist,1493,H034
+D0496,Dr. Amanda Hodge,Cardiologist,,H010
+D0497,Dr. Jason Gomez,Ortho,1284,H029
+D0498,Dr. Julie Johnson,dermatologist,1206,
+D0499,Dr. Vanessa Cunningham,Pediatric,843,H031
+D0500,Dr. Tonya Alexander,Pediatric,1590,H044
+D0501,Dr. Mark Santos,Ortho,1390,
+D0502,Dr. Michael Walker,Ortho,1585,H003
+D0503,Dr. Michael Watkins,Cardiologist,1384,H042
+D0504,Dr. Cassidy Bailey,Pediatric,701,H038
+D0505,Dr. Christopher Gutierrez,Ortho,995,H038
+D0506,Dr. Elijah Archer,Dermatologist,868,H001
+D0507,Dr. Lisa Hendricks,Cardiologist,,
+D0508,Dr. Kristin Hudson,Cardiologist,1985,H013
+D0509,Dr. James Livingston,cardiologist,,H043
+D0510,Dr. Jeffrey Evans,Dermatologist,1950,H006
+D0511,Dr. Dennis Santana,general medicine,1826,H012
+D0512,Dr. Nichole Parker,Cardiologist,1456,H005
+D0513,Dr. Benjamin Mosley,Ortho,1374,H043
+D0514,Dr. Jennifer Reilly,pediatric,1067,H025
+D0515,Dr. Nicole Sanchez,Ortho,,H017
+D0516,Dr. Shannon Hill,Dermatologist,910,H012
+D0517,Dr. Darrell Ibarra,ortho,1383,H042
+D0518,Dr. Deborah Fox,Cardiologist,711,
+D0519,Dr. Mary Hoffman,Cardiologist,1413,
+D0520,Dr. Anthony Murphy,ortho,577,H018
+D0521,Dr. Larry Woods,Dermatologist,1676,
+D0522,Dr. Virginia Caldwell,Ortho,1990,H005
+D0523,Dr. Patricia Boyd,general medicine,1911,H031
+D0524,Dr. Debra Wright,Cardiologist,1235,H020
+D0525,Dr. Adam Shannon,ortho,1825,
+D0526,Dr. Betty Vazquez,General Medicine,1441,H019
+D0527,Dr. John Williams,dermatologist,,H013
+D0528,Dr. Steven Stone,Pediatric,1791,H032
+D0529,Dr. Mark Mueller,Cardiologist,888,H013
+D0530,Dr. John Richards,Cardiologist,1501,H035
+D0531,Dr. Beth Sanchez,Pediatric,1420,H002
+D0532,Dr. Donald Reynolds,Cardiologist,1976,
+D0533,Dr. Timothy Hernandez,cardiologist,1571,H044
+D0534,Dr. Lacey Morrow,general medicine,647,
+D0535,Dr. Omar Kelly,Dermatologist,,H040
+D0536,Dr. Brian Gross,cardiologist,529,H004
+D0537,Dr. Scott Lin,Pediatric,,H038
+D0538,Dr. Linda Lee,Cardiologist,1518,H040
+D0539,Dr. Lori Franco,dermatologist,1190,H048
+D0540,Dr. Kristi Jordan,Ortho,1679,H021
+D0541,Dr. Tammy Lynch,Dermatologist,1187,
+D0542,Dr. Debbie Ward,pediatric,1926,H011
+D0543,Dr. David Murphy,ortho,773,
+D0544,Dr. Bradley Walker,General Medicine,1497,
+D0545,Dr. Jacqueline Dyer,cardiologist,,H019
+D0546,Dr. Clifford Poole,Ortho,1474,H014
+D0547,Dr. Michael Taylor,Dermatologist,1343,H012
+D0548,Dr. Chloe Ellis,General Medicine,1968,H006
+D0549,Dr. Jason Douglas,Pediatric,,H008
+D0550,Dr. David Hayes,General Medicine,1605,H030
+D0551,Dr. Kathy Steele,dermatologist,805,H031
+D0552,Dr. Jennifer Underwood,ortho,588,
+D0553,Dr. Amanda Moody,pediatric,1184,H049
+D0554,Dr. Marilyn Page DVM,ortho,1600,H002
+D0555,Dr. Diana Mullins,Ortho,,H029
+D0556,Dr. Brittany Ballard,General Medicine,1886,H015
+D0557,Dr. Matthew Freeman,Cardiologist,,H013
+D0558,Dr. Amy Baker,Ortho,,H004
+D0559,Dr. Elizabeth Skinner MD,ortho,1431,H024
+D0560,Dr. Riley Davenport,Dermatologist,1234,H013
+D0561,Dr. Carla Briggs,pediatric,622,H008
+D0562,Dr. Diana Myers,Ortho,1203,H019
+D0563,Dr. Paul Blair,general medicine,1752,H037
+D0564,Dr. Olivia Gonzalez,General Medicine,,H032
+D0565,Dr. Xavier Hanson,Dermatologist,1071,
+D0566,Dr. Chad Taylor,Ortho,1170,H015
+D0567,Dr. William Lewis,General Medicine,510,H003
+D0568,Dr. Crystal Robinson,Cardiologist,1532,
+D0569,Dr. John Jones,General Medicine,1926,H029
+D0570,Dr. Meagan Patterson,ortho,525,H027
+D0571,Dr. Timothy Smith,dermatologist,1826,H002
+D0572,Dr. Brenda Mendoza,Ortho,1440,H048
+D0573,Dr. Nicole Edwards,general medicine,783,H026
+D0574,Dr. Amy Ramirez,Dermatologist,1450,H001
+D0575,Dr. Anthony David,Cardiologist,1587,
+D0576,Dr. David Perkins,Ortho,1754,H014
+D0577,Dr. Rose Jackson,Cardiologist,612,H044
+D0578,Dr. Devin Hardin,Pediatric,1248,H003
+D0579,Dr. Amber Fernandez,Pediatric,1943,
+D0580,Dr. Travis Marsh,dermatologist,1605,H031
+D0581,Dr. Rebecca Lowery,General Medicine,961,H018
+D0582,Dr. Jesse Martin,General Medicine,629,H029
+D0583,Dr. Robert Carter,Ortho,1462,H044
+D0584,Dr. Amy Olsen,General Medicine,1253,H045
+D0585,Dr. Sydney Green,cardiologist,678,
+D0586,Dr. Julia Parsons,dermatologist,723,H008
+D0587,Dr. Thomas May,Dermatologist,1566,H002
+D0588,Dr. Erica Green,Pediatric,770,H027
+D0589,Dr. Richard Burke,Ortho,,H002
+D0590,Dr. Tammy Williams,Dermatologist,1187,H022
+D0591,Dr. Joshua Herrera,Pediatric,1585,H029
+D0592,Dr. Brittany Byrd,Ortho,1127,H017
+D0593,Dr. Gina Brennan,Dermatologist,596,H019
+D0594,Dr. Christopher George,Ortho,829,H019
+D0595,Dr. Lauren Watts,Dermatologist,1918,H010
+D0596,Dr. Peter Campbell,dermatologist,,H009
+D0597,Dr. Jonathon Stevenson,ortho,1651,H043
+D0598,Dr. Karla Burton,Pediatric,1418,H011
+D0599,Dr. Randy Jones,General Medicine,1328,H050
+D0600,Dr. Carlos Miller,Dermatologist,819,
+D0601,Dr. Joseph Church,General Medicine,1944,H019
+D0602,Dr. Michael Haas,General Medicine,1992,H029
+D0603,Dr. Renee Newton,Pediatric,582,H036
+D0604,Dr. Thomas Daugherty,Cardiologist,951,H006
+D0605,Dr. Scott Roy,pediatric,1694,H050
+D0606,Dr. Mr. Robert Cantu,pediatric,,H044
+D0607,Dr. Heather Matthews,Cardiologist,1504,H039
+D0608,Dr. Darlene Kelly,General Medicine,1239,H046
+D0609,Dr. Nancy Merritt,Ortho,1082,H020
+D0610,Dr. Brian Thompson,Ortho,,H029
+D0611,Dr. Theresa Goodman,Ortho,1990,H028
+D0612,Dr. Justin White,ortho,676,H020
+D0613,Dr. Scott Hernandez,Ortho,1186,
+D0614,Dr. Christopher Shelton,General Medicine,,H018
+D0615,Dr. Debbie Koch,ortho,1663,H009
+D0616,Dr. Tyler Stout,dermatologist,1634,H020
+D0617,Dr. April Ryan,General Medicine,1449,H001
+D0618,Dr. William Phillips,dermatologist,1803,H042
+D0619,Dr. Taylor Smith,Pediatric,1908,H002
+D0620,Dr. Kelly Romero,Cardiologist,636,H024
+D0621,Dr. Erin Nelson,General Medicine,1028,H031
+D0622,Dr. Christopher Dalton,Cardiologist,535,H011
+D0623,Dr. Jamie Romero,general medicine,1919,H011
+D0624,Dr. Logan Golden,cardiologist,1229,
+D0625,Dr. Michael Crawford,Pediatric,1552,H041
+D0626,Dr. Stephanie Sanders,Dermatologist,842,H021
+D0627,Dr. Christine Meza,pediatric,1242,
+D0628,Dr. Emily Hall,General Medicine,780,H024
+D0629,Dr. Thomas Wells,Ortho,833,H010
+D0630,Dr. Caitlin Howard,general medicine,1644,H034
+D0631,Dr. Jason Blackwell,General Medicine,733,H005
+D0632,Dr. Bradley Pacheco,Cardiologist,1482,H045
+D0633,Dr. Matthew Armstrong,pediatric,1723,H022
+D0634,Dr. Brittany Mitchell,Dermatologist,,H015
+D0635,Dr. Thomas Friedman,Dermatologist,964,H014
+D0636,Dr. Colleen Hernandez,Dermatologist,728,
+D0637,Dr. Peter Haynes,Ortho,,H043
+D0638,Dr. Jeffrey Ford,General Medicine,1018,
+D0639,Dr. Brittany Ortiz,Pediatric,753,H014
+D0640,Dr. Miranda Beck,General Medicine,1219,
+D0641,Dr. Amanda Bennett,Dermatologist,1687,H011
+D0642,Dr. David Robertson,General Medicine,1534,H007
+D0643,Dr. Kristen Davis,General Medicine,1965,H019
+D0644,Dr. Brian Pena,Dermatologist,1985,
+D0645,Dr. Amanda Nelson,Dermatologist,1472,H038
+D0646,Dr. Sarah Bush,Dermatologist,870,H025
+D0647,Dr. Robert Miller,ortho,731,H021
+D0648,Dr. Anna Poole,Cardiologist,1515,H046
+D0649,Dr. Jacqueline Phillips,Pediatric,,H008
+D0650,Dr. Sophia Dawson,ortho,1138,H029
+D0651,Dr. Sheila Stephens,Dermatologist,1376,H005
+D0652,Dr. Wendy Evans,Ortho,526,H032
+D0653,Dr. Phillip Rodriguez,Cardiologist,1885,
+D0654,Dr. Justin Brown,Dermatologist,708,H011
+D0655,Dr. Eric Anderson,Cardiologist,910,H026
+D0656,Dr. April Norton,cardiologist,1522,H046
+D0657,Dr. Timothy Sexton,General Medicine,1818,H023
+D0658,Dr. Mr. John Decker MD,Ortho,1492,H010
+D0659,Dr. Tina Little,ortho,1518,H009
+D0660,Dr. Seth Curry,cardiologist,,
+D0661,Dr. Barbara Graham,Cardiologist,1891,H020
+D0662,Dr. Edward White,General Medicine,1853,H050
+D0663,Dr. Michelle Graham,Ortho,1855,H033
+D0664,Dr. Benjamin White,Pediatric,1607,H049
+D0665,Dr. Austin Mitchell,Cardiologist,743,H021
+D0666,Dr. Kim Flynn,Ortho,,H043
+D0667,Dr. Nicholas Pace,Pediatric,1382,H046
+D0668,Dr. Laura Atkins,Ortho,1882,H036
+D0669,Dr. Ann Huffman,General Medicine,820,H026
+D0670,Dr. Roger Sullivan,Pediatric,1763,H050
+D0671,Dr. Vanessa Ramirez,Pediatric,,
+D0672,Dr. Anne Martin,Pediatric,555,H041
+D0673,Dr. Ashley Dunn,Pediatric,1231,H004
+D0674,Dr. Shaun Henderson,dermatologist,1713,
+D0675,Dr. Michael Jackson,Cardiologist,847,
+D0676,Dr. Aaron Mayer,pediatric,1365,H027
+D0677,Dr. Kimberly Lee,pediatric,545,H025
+D0678,Dr. Shane Smith,General Medicine,1500,H044
+D0679,Dr. Erin White,Dermatologist,1866,H040
+D0680,Dr. Joseph Young,Pediatric,1517,H005
+D0681,Dr. Taylor Tran,general medicine,1108,H026
+D0682,Dr. Jason Patrick,Dermatologist,1969,H007
+D0683,Dr. Richard Saunders,General Medicine,,H031
+D0684,Dr. Jerry Ferguson,ortho,1834,H033
+D0685,Dr. Rodney Avila,Pediatric,909,H017
+D0686,Dr. Shannon Thompson,General Medicine,1621,H002
+D0687,Dr. Stacy Macias,General Medicine,936,H048
+D0688,Dr. Stephanie Nunez,ortho,1758,H028
+D0689,Dr. Christina Olsen,General Medicine,,H030
+D0690,Dr. Paul Wagner,dermatologist,1114,H027
+D0691,Dr. Sophia Richmond,Pediatric,1798,H027
+D0692,Dr. Nicole Tate,Pediatric,1025,H016
+D0693,Dr. Jesse Wright,ortho,556,H020
+D0694,Dr. Traci Rodriguez,Ortho,1364,H003
+D0695,Dr. Cheryl Beck,dermatologist,1029,H018
+D0696,Dr. Christina Perez,general medicine,1979,H002
+D0697,Dr. Annette Fernandez,Cardiologist,,H005
+D0698,Dr. Tricia Bailey,Ortho,684,H047
+D0699,Dr. Omar Chandler,dermatologist,1524,H034
+D0700,Dr. John Erickson,General Medicine,1015,H006
+D0701,Dr. Teresa Smith,Dermatologist,1141,H038
+D0702,Dr. Karen Cruz,Ortho,1366,H007
+D0703,Dr. Jenny Soto,dermatologist,1336,H038
+D0704,Dr. Kevin Smith,Cardiologist,731,H028
+D0705,Dr. Kimberly Garcia,Ortho,796,H046
+D0706,Dr. Deborah Townsend,Pediatric,,H039
+D0707,Dr. Julie Wallace,Cardiologist,611,H043
+D0708,Dr. Joe Gordon,dermatologist,1808,H024
+D0709,Dr. Wayne Barnes,Cardiologist,1406,H026
+D0710,Dr. Maria Weaver,Pediatric,982,H011
+D0711,Dr. Matthew Thompson,Ortho,1819,H003
+D0712,Dr. Wanda Short,Pediatric,1506,H027
+D0713,Dr. James Richardson,Pediatric,705,H045
+D0714,Dr. Jennifer Cruz,Pediatric,1733,H036
+D0715,Dr. Sergio Andrews,Pediatric,,
+D0716,Dr. Franklin Harris,Dermatologist,778,
+D0717,Dr. Leslie Vance,Dermatologist,668,H016
+D0718,Dr. Gabriel Guzman,General Medicine,1829,H039
+D0719,Dr. Lori Smith,Ortho,1479,H009
+D0720,Dr. Edward Taylor,pediatric,1170,H013
+D0721,Dr. Alison Adams,Cardiologist,1272,H037
+D0722,Dr. Phillip Jenkins,dermatologist,,H040
+D0723,Dr. Yolanda Brown,Dermatologist,906,H011
+D0724,Dr. Malik Washington,Cardiologist,1032,H024
+D0725,Dr. Kristen Larson,Dermatologist,1971,H050
+D0726,Dr. Michael Scott,Ortho,959,H013
+D0727,Dr. Luke Duncan,pediatric,766,H014
+D0728,Dr. Bernard Hicks,general medicine,1988,H027
+D0729,Dr. Rebecca Boone,Dermatologist,1094,H016
+D0730,Dr. Joel Roberts,General Medicine,1693,H030
+D0731,Dr. Tony Cooper,cardiologist,1162,H026
+D0732,Dr. Kevin Stokes,Dermatologist,1723,H007
+D0733,Dr. James Frank,general medicine,980,H023
+D0734,Dr. Deborah Stewart,General Medicine,1725,H003
+D0735,Dr. Carol Bowman,cardiologist,1119,H043
+D0736,Dr. Sheri Murphy,pediatric,584,H017
+D0737,Dr. Russell Downs,Dermatologist,1458,H021
+D0738,Dr. Charles Ellis,General Medicine,1141,
+D0739,Dr. Dylan Guzman,Dermatologist,1075,H028
+D0740,Dr. Ryan White,Pediatric,1040,H028
+D0741,Dr. Dawn Meyer,Dermatologist,809,H043
+D0742,Dr. April Wiley,ortho,970,H031
+D0743,Dr. Cheryl Wade,pediatric,737,H032
+D0744,Dr. John Estrada,Cardiologist,1648,H032
+D0745,Dr. Cynthia Larson,Cardiologist,753,H014
+D0746,Dr. Roy Paul,pediatric,1541,H037
+D0747,Dr. Gregory Joyce,general medicine,508,H037
+D0748,Dr. Chase Choi,Dermatologist,,H044
+D0749,Dr. Suzanne Williams,Cardiologist,,H044
+D0750,Dr. Michael Cortez,Cardiologist,717,H010
+D0751,Dr. Jennifer Vargas,cardiologist,1850,H041
+D0752,Dr. Linda Newman,Pediatric,,H042
+D0753,Dr. Walter Howard,General Medicine,1998,H037
+D0754,Dr. Justin Saunders,dermatologist,,H021
+D0755,Dr. Jeffrey Weaver,Cardiologist,1733,H026
+D0756,Dr. Wanda Reynolds,pediatric,1316,
+D0757,Dr. Kathryn Castillo,dermatologist,1083,H042
+D0758,Dr. Alicia Wilson,dermatologist,1385,H020
+D0759,Dr. Jason Day,general medicine,1252,H032
+D0760,Dr. Brian Christensen,Ortho,1653,H006
+D0761,Dr. Stephen Martinez,Ortho,1389,H006
+D0762,Dr. Thomas Turner,Cardiologist,1885,H044
+D0763,Dr. Bonnie Larson,Dermatologist,1825,H019
+D0764,Dr. John Ortega,Ortho,1478,H009
+D0765,Dr. Kristin Hickman,Pediatric,1105,H036
+D0766,Dr. Jacqueline Turner,Cardiologist,1545,H007
+D0767,Dr. Charles Strickland,Ortho,1018,H038
+D0768,Dr. Thomas Carr,Cardiologist,,H030
+D0769,Dr. John Stewart,Dermatologist,592,
+D0770,Dr. Christopher Mcmillan,Pediatric,1872,H017
+D0771,Dr. Lee Rivera,Pediatric,883,H006
+D0772,Dr. Mark Keller,general medicine,1388,H001
+D0773,Dr. Allen Porter,ortho,1477,H026
+D0774,Dr. Mr. Joshua Cohen,General Medicine,1763,H044
+D0775,Dr. Kyle Burke,Ortho,,H013
+D0776,Dr. Brent Holloway,Cardiologist,885,H014
+D0777,Dr. Danny Smith,Ortho,1392,H035
+D0778,Dr. Tracy Roberts,dermatologist,803,H002
+D0779,Dr. Colleen Martin,cardiologist,1938,H032
+D0780,Dr. Stephanie Brown,ortho,996,H037
+D0781,Dr. Jennifer Barrett,ortho,,H046
+D0782,Dr. Tara Jones,Ortho,1685,H036
+D0783,Dr. Kaitlyn Leblanc,pediatric,1551,H040
+D0784,Dr. Madeline Ford,ortho,,
+D0785,Dr. Raymond Herrera,General Medicine,,H027
+D0786,Dr. Danielle Reed,ortho,1823,H045
+D0787,Dr. Michael Spencer,ortho,893,H029
+D0788,Dr. Kevin Torres,Dermatologist,1902,H039
+D0789,Dr. Hannah Marquez,ortho,1956,H027
+D0790,Dr. Jared Madden,Pediatric,831,H019
+D0791,Dr. Jacob Miller,Cardiologist,908,H032
+D0792,Dr. George Williams,Cardiologist,1511,H014
+D0793,Dr. Amber Parker,general medicine,,H023
+D0794,Dr. Jerome Parker,dermatologist,1531,
+D0795,Dr. Phillip Fowler,Cardiologist,964,H015
+D0796,Dr. Charles Gonzales,ortho,1227,H050
+D0797,Dr. Natalie Oconnor,general medicine,1913,H039
+D0798,Dr. Richard Murray,Cardiologist,1396,H049
+D0799,Dr. Eric Shaffer,Cardiologist,1748,H007
+D0800,Dr. Christina Roberts,general medicine,1790,H014
+D0801,Dr. Christina Cook,pediatric,1404,H032
+D0802,Dr. Joseph Walker Jr.,cardiologist,782,H013
+D0803,Dr. Bradley Cobb,Ortho,513,H031
+D0804,Dr. Cynthia Newman,pediatric,1044,H049
+D0805,Dr. Veronica Simmons,Ortho,810,H034
+D0806,Dr. John Nichols,Ortho,1378,H027
+D0807,Dr. Thomas Jones,Ortho,1897,H002
+D0808,Dr. Karen Alvarez,ortho,,H005
+D0809,Dr. Ronald Graham,Cardiologist,836,H026
+D0810,Dr. Arthur White,Cardiologist,1676,
+D0811,Dr. Eric Murphy,General Medicine,1894,H020
+D0812,Dr. Tammy Daniel,Pediatric,,H034
+D0813,Dr. Dr. Jose Garcia,General Medicine,1413,H035
+D0814,Dr. Ashley Coleman,General Medicine,1928,H042
+D0815,Dr. Eduardo Booth,Ortho,672,
+D0816,Dr. Nicholas Ramos MD,Pediatric,758,H035
+D0817,Dr. Robert Chapman,pediatric,1139,H049
+D0818,Dr. Eric Clark,dermatologist,1605,H016
+D0819,Dr. Kevin Johnston,Pediatric,726,H024
+D0820,Dr. Lori Jordan,Pediatric,597,H008
+D0821,Dr. Gloria Lynch,ortho,1428,H016
+D0822,Dr. Rachel Norris,General Medicine,1785,H039
+D0823,Dr. Joseph Spencer,Dermatologist,1964,H009
+D0824,Dr. Kenneth Schmidt,Ortho,1171,H013
+D0825,Dr. Timothy Fletcher,Pediatric,1371,H006
+D0826,Dr. Michael Fernandez,cardiologist,1475,H005
+D0827,Dr. Joseph Conway,Pediatric,1644,H026
+D0828,Dr. Edward Hill,Pediatric,1401,H032
+D0829,Dr. Paula Evans,Ortho,760,H030
+D0830,Dr. Stephanie Santiago,Dermatologist,1583,H014
+D0831,Dr. Lauren Kim,Ortho,1644,H008
+D0832,Dr. Sherri Colon,General Medicine,1256,H003
+D0833,Dr. Erin Mckinney,general medicine,1266,H032
+D0834,Dr. Joseph Dougherty,Cardiologist,1707,H020
+D0835,Dr. Sarah Williams,pediatric,1501,
+D0836,Dr. Jeremy Silva,General Medicine,1355,H020
+D0837,Dr. Lisa Prince,General Medicine,1272,H047
+D0838,Dr. Sara Wilkins,general medicine,1803,H029
+D0839,Dr. Joshua Fowler,ortho,682,H043
+D0840,Dr. Jodi Miller,General Medicine,1309,H003
+D0841,Dr. Garrett Carpenter,Ortho,839,H037
+D0842,Dr. Vincent Schaefer,Pediatric,1645,
+D0843,Dr. Rachel Norton,General Medicine,1667,H049
+D0844,Dr. Jon Russo,Ortho,,H035
+D0845,Dr. Jeanne Mills,Dermatologist,921,H046
+D0846,Dr. Nicholas Little,General Medicine,1742,H038
+D0847,Dr. Jonathan Walton,Cardiologist,1196,H027
+D0848,Dr. Ashley Miller,Cardiologist,1026,
+D0849,Dr. William Vasquez,Cardiologist,874,H006
+D0850,Dr. Denise Hendricks,Dermatologist,846,
+D0851,Dr. Stacy Johnson,pediatric,1110,H021
+D0852,Dr. Mary Delacruz,Dermatologist,1269,H008
+D0853,Dr. Laura Singleton,cardiologist,1700,H033
+D0854,Dr. Jill Ray,General Medicine,624,H036
+D0855,Dr. Charles Hensley,ortho,,H002
+D0856,Dr. Lauren Walker,Pediatric,707,H036
+D0857,Dr. Ann Calderon,Dermatologist,671,H033
+D0858,Dr. Jonathan Potter,Dermatologist,1606,H016
+D0859,Dr. Julie Curry,General Medicine,1636,H001
+D0860,Dr. Maureen Lee,Ortho,1837,H001
+D0861,Dr. Alicia Garner,Cardiologist,1724,H044
+D0862,Dr. David Silva,Ortho,935,H033
+D0863,Dr. Tyler Patel,pediatric,1653,
+D0864,Dr. Victoria Parker,Cardiologist,786,H018
+D0865,Dr. Emily Martinez,ortho,1151,H022
+D0866,Dr. Amanda Brown,Pediatric,1059,H021
+D0867,Dr. Samantha Salinas,pediatric,1172,
+D0868,Dr. Michelle Williams,Dermatologist,,H001
+D0869,Dr. Shawn Evans,Dermatologist,1940,H026
+D0870,Dr. Christine Jones,general medicine,1833,
+D0871,Dr. Michael Buchanan,Cardiologist,1411,H023
+D0872,Dr. James Morales DVM,Ortho,862,H045
+D0873,Dr. Michael Hicks,cardiologist,895,H015
+D0874,Dr. Laura Clark,Cardiologist,1952,H006
+D0875,Dr. Luke Bush,General Medicine,952,H032
+D0876,Dr. Kimberly Cantrell,pediatric,1941,H014
+D0877,Dr. Sarah Jordan,cardiologist,1311,H018
+D0878,Dr. Tyler Cole,General Medicine,896,H037
+D0879,Dr. Matthew Valencia,General Medicine,,H005
+D0880,Dr. Cynthia Freeman,dermatologist,966,H047
+D0881,Dr. Gregory Wiley,pediatric,1919,H040
+D0882,Dr. Dylan Long,Pediatric,504,H042
+D0883,Dr. Amanda Anderson,Cardiologist,1333,H044
+D0884,Dr. Cynthia Tucker,General Medicine,589,H015
+D0885,Dr. Scott Stephens,cardiologist,1419,H026
+D0886,Dr. Ralph Gray,Dermatologist,551,H015
+D0887,Dr. Thomas Phillips,Ortho,903,H020
+D0888,Dr. Jamie Scott,Cardiologist,,H002
+D0889,Dr. Michael Gutierrez,General Medicine,1012,H031
+D0890,Dr. Brian Kidd,Dermatologist,1183,H016
+D0891,Dr. Travis Walters,Cardiologist,695,H038
+D0892,Dr. Joseph Meyers,cardiologist,,
+D0893,Dr. Jennifer Baker,Pediatric,761,
+D0894,Dr. Tracey Johnson,ortho,1384,
+D0895,Dr. Kimberly Taylor,Cardiologist,1281,H040
+D0896,Dr. Alejandra Thomas,ortho,1851,H030
+D0897,Dr. Jay Peck,Ortho,1770,H022
+D0898,Dr. Ashley Schultz,Cardiologist,894,H001
+D0899,Dr. Jody Rice,General Medicine,896,H009
+D0900,Dr. Leslie Bauer,general medicine,1984,H012
+D0901,Dr. Laura Andrews,dermatologist,,H038
+D0902,Dr. Jon Green,Ortho,1232,H035
+D0903,Dr. Sylvia Dalton,dermatologist,1202,H001
+D0904,Dr. Melissa Smith,General Medicine,617,H036
+D0905,Dr. Jonathan Gallagher,Cardiologist,910,H013
+D0906,Dr. Louis Gibson,Cardiologist,1922,H030
+D0907,Dr. Francisco Woodward,General Medicine,1659,H040
+D0908,Dr. Michael Guerra,Pediatric,1430,H003
+D0909,Dr. Kimberly Orozco,ortho,,H015
+D0910,Dr. John Chavez,Ortho,1178,H025
+D0911,Dr. Alison Faulkner,Dermatologist,513,H005
+D0912,Dr. Toni Galloway,pediatric,1095,H041
+D0913,Dr. Nina Combs,General Medicine,560,H019
+D0914,Dr. Patricia Cannon,dermatologist,856,H036
+D0915,Dr. Eric Clark,dermatologist,,H007
+D0916,Dr. Kelly Brown,Cardiologist,1841,H008
+D0917,Dr. Joshua Ramos DDS,Pediatric,991,H024
+D0918,Dr. Courtney Young,Dermatologist,1776,H046
+D0919,Dr. Philip Cole,cardiologist,767,H013
+D0920,Dr. Anna Love,General Medicine,1727,H041
+D0921,Dr. Lisa Rodriguez,Dermatologist,1702,H035
+D0922,Dr. Cheryl Petersen,Pediatric,609,H018
+D0923,Dr. Tracy Lopez,Dermatologist,1501,H006
+D0924,Dr. Casey Baker,Ortho,842,H049
+D0925,Dr. Andrew Green,General Medicine,866,H024
+D0926,Dr. Carolyn Kane,General Medicine,1513,H038
+D0927,Dr. Lisa Ramsey,Ortho,1830,
+D0928,Dr. Joel Smith,Dermatologist,980,H020
+D0929,Dr. Andrea Brown,Ortho,1266,H006
+D0930,Dr. Melissa Combs,Dermatologist,1562,H038
+D0931,Dr. Karl Moore,Cardiologist,1372,H028
+D0932,Dr. Richard Larsen,Ortho,1059,H012
+D0933,Dr. Amy Webb,ortho,1235,H019
+D0934,Dr. Annette Walters,General Medicine,1066,H007
+D0935,Dr. Paul Stephens,cardiologist,,H013
+D0936,Dr. Kevin Moss,pediatric,1899,H013
+D0937,Dr. Patrick Bird,General Medicine,1966,H017
+D0938,Dr. Laura Harris,Cardiologist,1209,H026
+D0939,Dr. Blake Crawford,Ortho,524,H033
+D0940,Dr. Charles Roberts,Dermatologist,1981,H031
+D0941,Dr. Steve Brewer,Dermatologist,1459,H030
+D0942,Dr. Jason Rodriguez,Pediatric,884,H045
+D0943,Dr. Amber Lee,ortho,1643,
+D0944,Dr. Jeffrey Watts,Dermatologist,519,H043
+D0945,Dr. John Hernandez,Pediatric,1904,H049
+D0946,Dr. Michael Jackson,general medicine,1662,H009
+D0947,Dr. Brittany Johnson,Dermatologist,1663,H039
+D0948,Dr. Peggy Young,General Medicine,1280,H026
+D0949,Dr. Jennifer Taylor,Cardiologist,722,H029
+D0950,Dr. Christina Mullen,pediatric,1632,H045
+D0951,Dr. Alexandra Marshall,General Medicine,642,H025
+D0952,Dr. Amanda Davis,pediatric,1573,
+D0953,Dr. Gavin Yates,Cardiologist,,H027
+D0954,Dr. Allison Murray,ortho,1598,H048
+D0955,Dr. Ann Goodwin,Cardiologist,922,H014
+D0956,Dr. Jerry Martin,Pediatric,1472,H037
+D0957,Dr. Joshua James,Pediatric,1902,H013
+D0958,Dr. Jordan Wilkerson,Cardiologist,1317,H016
+D0959,Dr. Kathleen Lopez,General Medicine,1505,H037
+D0960,Dr. Rodney Stewart,Cardiologist,1434,H046
+D0961,Dr. Patricia Paul,Pediatric,858,H012
+D0962,Dr. Yvonne Rodriguez,General Medicine,1849,H037
+D0963,Dr. Robert Brandt,Cardiologist,990,H011
+D0964,Dr. Aaron Scott,Pediatric,1865,H045
+D0965,Dr. Anthony Good,Dermatologist,1632,H024
+D0966,Dr. Olivia Carter,Cardiologist,1167,H011
+D0967,Dr. Stephanie White,pediatric,,
+D0968,Dr. Matthew Smith,Ortho,898,H001
+D0969,Dr. Daniel Matthews,pediatric,1169,H030
+D0970,Dr. Brenda Oconnor,Ortho,,H046
+D0971,Dr. Monica Aguilar,ortho,830,H002
+D0972,Dr. Rodney Salinas,general medicine,1594,H011
+D0973,Dr. Christopher Jensen,Cardiologist,,H029
+D0974,Dr. Clayton May,pediatric,1882,H029
+D0975,Dr. Brandon Leblanc,Cardiologist,1812,H043
+D0976,Dr. Blake Owens,Cardiologist,607,H004
+D0977,Dr. Michelle Johnson,Ortho,1267,H013
+D0978,Dr. Brandi Gould,cardiologist,,
+D0979,Dr. Heather Fernandez,Dermatologist,,H007
+D0980,Dr. Andrew Rodriguez,Dermatologist,,H021
+D0981,Dr. Ashley Friedman,Pediatric,924,H026
+D0982,Dr. Tammy Davis,ortho,1230,H001
+D0983,Dr. Kimberly Sullivan,Ortho,,H015
+D0984,Dr. Donna Obrien,Cardiologist,1777,H005
+D0985,Dr. Jennifer Mendoza,Dermatologist,1523,H007
+D0986,Dr. Shawn Hooper,General Medicine,1665,H007
+D0987,Dr. Beth Ford,General Medicine,1295,H050
+D0988,Dr. Dr. Kathryn Adams DDS,Dermatologist,1908,H043
+D0989,Dr. Paul Gonzales,ortho,,H029
+D0990,Dr. Vanessa Davila,Ortho,1531,H001
+D0991,Dr. Andrew Carter,dermatologist,754,H048
+D0992,Dr. Bianca Kim,Ortho,622,H032
+D0993,Dr. Jamie Mclaughlin,pediatric,1814,
+D0994,Dr. Taylor Mack,General Medicine,1173,H021
+D0995,Dr. Christina Franklin,Cardiologist,1827,H049
+D0996,Dr. Bethany Gonzalez,cardiologist,1201,H035
+D0997,Dr. David Fernandez,Cardiologist,1008,H045
+D0998,Dr. Debra Blackburn,Dermatologist,1158,H041
+D0999,Dr. Christopher Walker,cardiologist,894,
+D1000,Dr. Jennifer Hill,Dermatologist,855,H014
