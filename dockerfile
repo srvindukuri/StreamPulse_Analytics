@@ -20,4 +20,5 @@ ENV PATH=$PATH:$SPARK_HOME/bin
 USER airflow
 
 # Install PySpark as airflow user
+RUN pip install --upgrade pip
 RUN pip install pyspark==3.5.1
