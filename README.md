@@ -124,6 +124,3 @@ Enable and run `streampulse_batch_etl_dag` in Airflow.
 **Ravi Varma Indukuri**
 Data Engineer | Apache Airflow | PySpark | Real-Time Processing | PostgreSQL
 
----
-
-If you want, share your `tree /f` output and this README will be refined further to include exact folder naming and DAG/script references from your repo.
